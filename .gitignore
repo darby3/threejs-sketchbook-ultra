@@ -3,3 +3,4 @@ build/
 public/js/components/
 public/css/global.css
 public/css/global.css.map
+public/js/libs

@@ -1,0 +1,32 @@
+#starter-4 {
+  background: #323232;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+
+  .wrapper {
+    align-self: center;
+    justify-self: center;
+    position: relative;
+  }
+
+  #canvas {
+    background: #fff;
+  }
+
+  #info {
+    position: absolute;
+    bottom: 50%;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: #fff;
+    font-size: 4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+  }
+}

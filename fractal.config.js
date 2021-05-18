@@ -27,7 +27,8 @@ const mandelbrot = require('@frctl/mandelbrot'); // require the Mandelbrot theme
 
 // create a new instance with custom config options
 const myCustomisedTheme = mandelbrot({
-  skin: "green"
+  skin: "green",
+  panels: ["notes", "html", "context", "resources"],
 });
 
 // tell Fractal to use the configured theme by default
