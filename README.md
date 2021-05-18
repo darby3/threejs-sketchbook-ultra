@@ -1,4 +1,8 @@
-# Ready Set Fractal
+# threeJS sketchbook, ultimate edition
+
+Combining two other sketcbbooks into a sketchbook platform I actually want to use.
+
+<!--
 
 Just a project to help quick start development using [Fractal](https://fractal.build/), as driven by npm scripts.
 
@@ -23,3 +27,4 @@ Ideally it's great for setting up a pattern library _and_ for setting up iterabl
 
 All props and thanks to Rachel Andrew and [this post on Smashing Magazine](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/); this repo is basically just the results of that, tweaked to taste, and shifted to use npm scripts instead of Gulp.
 
+-->

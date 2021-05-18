@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: threeJS sketchbook, ultimate edition
 ---
 
-This is your index page. You can edit its contents at `docs/01-index.hbs`
+Combining two other sketcbbooks into a sketchbook platform I actually want to use.
