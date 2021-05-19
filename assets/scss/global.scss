@@ -6,4 +6,19 @@ body {
   margin: 0;
 }
 
+// Basic set-up for centering a canvas element
+
+.basic-canvas-centering {
+  background: #323232;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+
+  #canvas {
+    background: #fff;
+    align-self: center;
+    justify-self: center;
+  }
+}
+
 @import "../../components/**/*.scss";
