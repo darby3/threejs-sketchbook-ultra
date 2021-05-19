@@ -50,3 +50,5 @@ Create an array of things an animate them
 Adding some mouse input
 
 [Link](/components/detail/starter-13)
+### Built on
+Wed May 19 11:31:31 EDT 2021
